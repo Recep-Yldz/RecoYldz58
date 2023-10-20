@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RecoYldz58
+- 👋 Hi, I’m Recep Yıldız.I from Turkey
 - 👀 I’m interested in Python,cyber security and game coding.
 - 🌱 I’m currently learning cyber security and game coding.
 - 💞️ I’m looking to collaborate on.
