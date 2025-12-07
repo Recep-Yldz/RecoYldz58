@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Recep Yıldız.I from Turkey
-- 👀 I’m interested in Python,cyber security,cloud network and game coding.
-- 🌱 I’m currently learning cyber security,cloud network and game coding.
-- 💞️ I’m looking to collaborate on.
-- 📫 How to reach me #recepyildiz0144@gmail.com
+
